@@ -1,0 +1,7 @@
+Pages:
+User Page (/Users)
+Header (In the left side (+new user) button, Hide disabled User check box, in the right side (Save User) Button)
+Table below Header on the left side and the table have 4 columns(ID, User name, Email, Enabled) and the Enabled column contains a list to select (True or Fales) and all columns can be sorted and filtered.
+Add new User 7 sections on the right side below the header (New User, Username:, Display Name:, Phone:, Email:, User Roles:, Enabled:) - New user highlighted with gray color and no text edited allowed other sections allowing a paragraph of text except enabled section is a check box when checked the user will be active and when unchecked the user disabled and the User Roles section is a list of users roles (Gust, Admin, SuperAdmin)
+Footer
+ 
